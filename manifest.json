@@ -1,0 +1,11 @@
+{
+  "name": "ALI MU'IZ AL-SHALLAH English Learning",
+  "short_name": "ALI MU'IZ English",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#102b46",
+  "lang": "ar",
+  "dir": "rtl",
+  "version": "1.4.0"
+}
